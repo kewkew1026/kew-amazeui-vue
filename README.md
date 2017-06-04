@@ -1,4 +1,4 @@
-# amazeui-vue
+# kew-amazeui-vue
 [AmazeUI](https://github.com/amazeui/amazeui) components built with [vue.js](https://github.com/vuejs/vue)
 
 [![version](https://img.shields.io/npm/v/amazeui-vue.svg?style=flat-square "version")](https://www.npmjs.com/package/amazeui-vue)
@@ -16,7 +16,7 @@
 
 ## Installation
 ### NPM
-`npm install amazeui-vue`
+`npm install kew-amazeui-vue`
 
 It's recommended to use vuejs + webpack + amazeui-vue !
 
